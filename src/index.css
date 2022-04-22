@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  background-color: #dfe6e9;
+  margin-left: 1px;
+}
+
+/** TODO: Move this to respective component CSS Files **/
+/**** Header ***/
+.heading {
+  text-align: center;
+  font-size: 2em;
+  color: #2d3436;
+  margin: 20px 0 30px;
+}
+
+.input-search{
+  height: 30px;
+  width: 100%;
+  background-color: #cfcbcb;;
+  border: 0.5px;
+}
+
+.list-users{
+ text-align: center;
+ width: 100%;
+ border: 0.5px ;
+ margin: 10px;
+ background-color: white;
+ margin-left: 1px;
+ padding-top: 10px ;
+}
+/** Move this to respective component CSS Files **/
+.user-address{
+  list-style: none;
+  border-top: 0.5px ;
+  background-color: #cfcbcb;
+  margin-bottom: 0%;
+  padding: 10px 0;
+}
+
